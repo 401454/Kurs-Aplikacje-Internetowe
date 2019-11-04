@@ -1,0 +1,31 @@
+2019/11/04-08:04:19.226 ab1 Reusing MANIFEST /home/local/student/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/11/04-08:04:20.369 c72 Level-0 table #5: started
+2019/11/04-08:04:20.478 c72 Level-0 table #5: 2696543 bytes OK
+2019/11/04-08:04:20.512 c72 Delete type=0 #3
+2019/11/04-08:07:21.058 c72 Level-0 table #7: started
+2019/11/04-08:07:21.251 c72 Level-0 table #7: 2758397 bytes OK
+2019/11/04-08:07:21.321 c72 Delete type=0 #4
+2019/11/04-08:11:21.893 c72 Level-0 table #9: started
+2019/11/04-08:11:21.967 c72 Level-0 table #9: 1974387 bytes OK
+2019/11/04-08:11:22.001 c72 Delete type=0 #6
+2019/11/04-08:21:22.688 c72 Level-0 table #11: started
+2019/11/04-08:21:22.762 c72 Level-0 table #11: 2503496 bytes OK
+2019/11/04-08:21:22.797 c72 Delete type=0 #8
+2019/11/04-08:34:26.103 c72 Level-0 table #13: started
+2019/11/04-08:34:26.175 c72 Level-0 table #13: 2413924 bytes OK
+2019/11/04-08:34:26.209 c72 Delete type=0 #10
+2019/11/04-08:36:19.184 c72 Level-0 table #15: started
+2019/11/04-08:36:19.257 c72 Level-0 table #15: 2670484 bytes OK
+2019/11/04-08:36:19.291 c72 Delete type=0 #12
+2019/11/04-08:36:19.292 c72 Compacting 4@0 + 1@1 files
+2019/11/04-08:36:19.374 c72 Generated table #16@0: 11 keys, 2210051 bytes
+2019/11/04-08:36:19.449 c72 Generated table #17@0: 9 keys, 2248941 bytes
+2019/11/04-08:36:19.540 c72 Generated table #18@0: 7 keys, 3028372 bytes
+2019/11/04-08:36:19.599 c72 Generated table #19@0: 7 keys, 1168393 bytes
+2019/11/04-08:36:19.599 c72 Compacted 4@0 + 1@1 files => 8655757 bytes
+2019/11/04-08:36:19.632 c72 compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/11/04-08:36:19.632 c72 Delete type=2 #7
+2019/11/04-08:36:19.632 c72 Delete type=2 #9
+2019/11/04-08:36:19.632 c72 Delete type=2 #11
+2019/11/04-08:36:19.632 c72 Delete type=2 #13
+2019/11/04-08:36:19.632 c72 Delete type=2 #15
